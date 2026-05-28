@@ -78,11 +78,5 @@ transmitted successfully. It is safer than send() for large amounts of data.
 10.getsockname(): The getsockname() function returns the socket’s own IP address and port
 number. It helps in identifying the local endpoint of the connection.
 ```
-
-
-
-
-
-
 ## Result:
 Thus the study of Socket Programming Completed Successfully
