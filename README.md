@@ -55,6 +55,7 @@ Socket programming finds applications in various domains, including web developm
 
 ## Algorithm:
 Socket Programming Functions in Python
+
 ```
 1.socket() : The socket() function is used to create a new socket object. It acts as the main
 endpoint for communication between two systems in a network. Both client and server
